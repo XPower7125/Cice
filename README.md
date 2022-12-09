@@ -7,7 +7,7 @@ The *FeatureManager* class should cover most feature management needs with the a
 In case you'd like to talk to NTDLL exports directly, you can use *NativeMethods*.
 
 # CiCeTool
-ViVeTool is both an example of how to use ViVe, as well as a straightforward tool for power users which want to use the new APIs instantly.
+CiCeTool is both an example of how to use ViVe, as well as a straightforward tool for power users which want to use the new APIs instantly.
 
 [![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)
 
